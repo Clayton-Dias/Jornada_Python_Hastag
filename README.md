@@ -91,10 +91,3 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir um Pull Request 
 
 Este projeto está licenciado sob a MIT License - veja o arquivo [LICENSE](LICENSE) para detalhes.
 ```
-
-### Personalização
-- **Links**: Certifique-se de atualizar o link do repositório no índice e onde menciona o `git clone`.
-- **Nomes dos Scripts**: Substitua `nome_do_script.py` pelo nome correto de cada arquivo.
-- **Licença**: Ajuste a seção de licença se estiver utilizando uma licença diferente. 
-
-Esse README fornece uma visão clara sobre o que cada script faz e como utilizá-lo, facilitando a navegação e entendimento do seu projeto para outros desenvolvedores.
